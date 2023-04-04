@@ -13,4 +13,6 @@ If you have HPX added to path you can just `find_package(HPX QUIET)` in camke fi
 ```
 ./matrix_mul
 ```
-output
+## Output
+
+![output](output.png)
